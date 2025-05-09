@@ -1,6 +1,6 @@
 # khanomy websit
 
-#my first persian website whitout responsive
+my first persian website whitout responsive
 
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/khanomy/blob/main/assets/img/Capture.JPG)
