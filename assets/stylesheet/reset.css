@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "vazirmatn";
+  src: url(fonts/fonts/ttf/Vazirmatn-Medium.ttf);
+}
+body {
+  font-family: "vazirmatn";
+  font-feature-settings: "ss01";
+
+  font-size: 100%;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  font-family: "vazirmatn";
+  font-feature-settings: "ss01";
+
+  &:visited {
+    color: inherit;
+  }
+}
+li {
+  list-style-type: none;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.center {
+  align-items: center;
+  justify-content: center;
+}
