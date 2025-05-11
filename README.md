@@ -2,6 +2,8 @@
 
 my first persian website whitout responsive
 
+without responsive
+
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/khanomy/blob/main/assets/img/Capture.JPG)
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/khanomy/blob/main/assets/img/Capture2.JPG)
